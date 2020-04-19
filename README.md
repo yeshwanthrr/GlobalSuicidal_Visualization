@@ -1,0 +1,1 @@
+# GlobalSuicidal_Visulization
