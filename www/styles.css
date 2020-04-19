@@ -1,0 +1,52 @@
+
+.info-box {min-height: 45px;}
+
+.info-box-icon {
+	height: 85px;
+	width:80px; 
+	line-height: 80px;
+	}
+
+	
+.info-box-content {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	}
+	
+.sidebar-toggle {
+	display:None;
+}
+
+.skin-blue .main-header .logo {
+    width: 100%;
+}
+
+.skin-blue .main-header .navbar {
+    background: transparent;
+}
+
+.box {
+	border : 0 !important;
+	border-top : 0;
+}
+
+#suicide_100k,#suicide_total,#global_gdp_trend, #global_pop_trend {
+	font-weight: bold;
+	background: #ffffff;
+}
+
+.content{
+	background: #f9f6f7
+}
+
+.leaflet-control{
+	width: 250px;
+    color: #FFFFFF;
+    background: transparent;
+    box-shadow: none;
+	font-weight: bold;
+}
+
+.logo {
+	font-weight: bold;
+}
